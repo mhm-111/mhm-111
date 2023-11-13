@@ -6,19 +6,10 @@
 
 - 🔭 I’m currently working on **Web Pentesting and playing CTF.**
 
-- 🌱 I’m currently learning **Python**
-
-- 👯 I’m looking to collaborate on **Facebook,Twitter,Instagram,LinkedIn**
-
-- 🤝 I’m looking for help with **CyberGeek**
-
 - 👨‍💻 All of my projects are available at <a href=https://github.com/mhm-111> Github Account </a>
-
-- 😁 Ask me about **anything you want.**
 
 - 📫 How to reach me **mahmudul.official.111@gmail.com**
 
-- ⚡ Fun fact **I play guitar.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
